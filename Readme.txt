@@ -1,1 +1,1 @@
-This is a readme file for Tip_calculaor.rb This is a Ruby program that allows the user to set their total bill, their requested tip percentage, and the number of guests that are splitting the bill.
+This is a Ruby program that allows the user to set their total bill, their requested tip percentage, and the number of guests that are splitting the bill. If you would like to do this, you can clone the repo, then once you CD into the Tip-Calculator file on your computer, you need to run `ruby tip-calculator.rb`.
